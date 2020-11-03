@@ -1,0 +1,1 @@
+cd "C:/Users/Niyazov/Desktop/CS/%2/%1"
