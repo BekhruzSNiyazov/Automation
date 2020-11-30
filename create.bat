@@ -1,6 +1,3 @@
-mkdir "C:/Users/Niyazov/Desktop/CS/%2/%1"
-cd "C:/Users/Niyazov/Desktop/CS/%2/%1"
-
 git init
 hub create %1
 git remote remove origin
